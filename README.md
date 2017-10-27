@@ -1,5 +1,5 @@
 # sampleWebLoginApp
-Just a simple log in application using HTML 5, jQuery, and MySQL
+Just a simple log in application using PHP, HTML 5, jQuery, and MySQL
 
 Monkedia Interview Test Project
 Developed by Adam J Campbell - cplsoup@gmail.com
